@@ -1,0 +1,105 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.sec{
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+}
+nav{
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 96px;
+}
+.right{
+    width: 721px;
+    height: 681px;
+
+}
+h2{
+    font-size: 66px;
+    font-weight: 500;
+}
+b{
+    color: orange;
+}
+.left{
+    padding-bottom: 300px;
+}
+.butt{
+    background-color: orange;
+    border-radius: 8px;
+}
+.left div{
+    font-size: 26px;
+    display: flex;
+    width: 328px;
+    justify-content: space-around;
+    
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.but{
+
+    background-color: orange;
+    border-radius: 8px;
+    border-bottom-right-radius: 0px;
+    font-size: 24px;
+    border: none;
+}
+.six{
+    width: 361px;
+    height: 417px;
+    border-radius: 53px, 5px, 53px, 5px;
+    margin-top: 42px;
+    
+}
+.six div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 275px;
+}
+.img{
+    width: 79px;
+    height: 33px;
+    background-color: orange;
+    border-radius: 8px;
+    border-bottom-right-radius: 0px;
+    border: none;
+
+}
+h1{
+    width: 360px;
+    height: 30px;
+    font-size: 36px;
+    font-weight: 500;
+    margin: auto;
+}
+.food{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.last{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.tin div{
+    display: flex;
+    justify-content: space-around;
+    width: 375px;
+}
